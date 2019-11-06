@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ETicaret.Northwind.DataAccess</id>
+    <version>1.0.0</version>
+    <authors>ETicaret.Northwind.DataAccess</authors>
+    <owners>ETicaret.Northwind.DataAccess</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="ETicaret.Core" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="ETicaret.Northwind.Entities" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="2.1.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.DataAccess\bin\Release\netcoreapp2.1\ETicaret.Northwind.DataAccess.dll" target="lib\netcoreapp2.1\ETicaret.Northwind.DataAccess.dll" />
+  </files>
+</package>

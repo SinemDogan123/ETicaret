@@ -1,0 +1,14 @@
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.DataAccess\bin\Debug\netcoreapp2.1\ETicaret.Northwind.DataAccess.deps.json
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.DataAccess\bin\Debug\netcoreapp2.1\ETicaret.Northwind.DataAccess.dll
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.DataAccess\bin\Debug\netcoreapp2.1\ETicaret.Northwind.DataAccess.pdb
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.DataAccess\bin\Debug\netcoreapp2.1\ETicaret.Core.dll
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.DataAccess\bin\Debug\netcoreapp2.1\ETicaret.Northwind.Entities.dll
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.DataAccess\bin\Debug\netcoreapp2.1\ETicaret.Core.pdb
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.DataAccess\bin\Debug\netcoreapp2.1\ETicaret.Northwind.Entities.pdb
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.DataAccess\obj\Debug\netcoreapp2.1\ETicaret.Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.DataAccess\obj\Debug\netcoreapp2.1\ETicaret.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.DataAccess\obj\Debug\netcoreapp2.1\ETicaret.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.DataAccess\obj\Debug\netcoreapp2.1\ETicaret.Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.DataAccess\obj\Debug\netcoreapp2.1\ETicaret.Northwind.DataAccess.csproj.CopyComplete
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.DataAccess\obj\Debug\netcoreapp2.1\ETicaret.Northwind.DataAccess.dll
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.DataAccess\obj\Debug\netcoreapp2.1\ETicaret.Northwind.DataAccess.pdb

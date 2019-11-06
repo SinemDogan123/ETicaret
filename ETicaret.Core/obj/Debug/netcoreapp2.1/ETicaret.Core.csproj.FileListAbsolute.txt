@@ -1,0 +1,9 @@
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Core\bin\Debug\netcoreapp2.1\ETicaret.Core.deps.json
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Core\bin\Debug\netcoreapp2.1\ETicaret.Core.dll
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Core\bin\Debug\netcoreapp2.1\ETicaret.Core.pdb
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Core\obj\Debug\netcoreapp2.1\ETicaret.Core.csprojAssemblyReference.cache
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Core\obj\Debug\netcoreapp2.1\ETicaret.Core.csproj.CoreCompileInputs.cache
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Core\obj\Debug\netcoreapp2.1\ETicaret.Core.AssemblyInfoInputs.cache
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Core\obj\Debug\netcoreapp2.1\ETicaret.Core.AssemblyInfo.cs
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Core\obj\Debug\netcoreapp2.1\ETicaret.Core.dll
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Core\obj\Debug\netcoreapp2.1\ETicaret.Core.pdb

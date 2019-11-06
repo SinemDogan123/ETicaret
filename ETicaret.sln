@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Core", "ETicaret.Core\ETicaret.Core.csproj", "{6B602687-32F7-4DD2-915D-57E7CD6E6A76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Northwind.Entities", "ETicaret.Northwind.Entities\ETicaret.Northwind.Entities.csproj", "{E578C395-ACD8-4425-A42E-1BC28E208789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Northwind.DataAccess", "ETicaret.Northwind.DataAccess\ETicaret.Northwind.DataAccess.csproj", "{9C460FFB-EB93-4452-BCF5-E395120C9BA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Northwind.Business", "ETicaret.Northwind.Business\ETicaret.Northwind.Business.csproj", "{EAEBA5FD-FC80-47AF-93B7-39F379379BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Northwind.MvcWebUI", "ETicaret.Northwind.MvcWebUI\ETicaret.Northwind.MvcWebUI.csproj", "{23CBB8C0-FF45-44FD-9233-3F5CA3D27F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B602687-32F7-4DD2-915D-57E7CD6E6A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B602687-32F7-4DD2-915D-57E7CD6E6A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B602687-32F7-4DD2-915D-57E7CD6E6A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B602687-32F7-4DD2-915D-57E7CD6E6A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E578C395-ACD8-4425-A42E-1BC28E208789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E578C395-ACD8-4425-A42E-1BC28E208789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E578C395-ACD8-4425-A42E-1BC28E208789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E578C395-ACD8-4425-A42E-1BC28E208789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C460FFB-EB93-4452-BCF5-E395120C9BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C460FFB-EB93-4452-BCF5-E395120C9BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C460FFB-EB93-4452-BCF5-E395120C9BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C460FFB-EB93-4452-BCF5-E395120C9BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAEBA5FD-FC80-47AF-93B7-39F379379BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAEBA5FD-FC80-47AF-93B7-39F379379BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAEBA5FD-FC80-47AF-93B7-39F379379BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAEBA5FD-FC80-47AF-93B7-39F379379BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23CBB8C0-FF45-44FD-9233-3F5CA3D27F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CBB8C0-FF45-44FD-9233-3F5CA3D27F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CBB8C0-FF45-44FD-9233-3F5CA3D27F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CBB8C0-FF45-44FD-9233-3F5CA3D27F77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD98CE52-6C5D-4C6F-8DCF-B66EC86F3112}
+	EndGlobalSection
+EndGlobal

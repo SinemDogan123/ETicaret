@@ -1,0 +1,16 @@
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\bin\Debug\netcoreapp2.1\ETicaret.Northwind.Business.deps.json
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\bin\Debug\netcoreapp2.1\ETicaret.Northwind.Business.dll
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\bin\Debug\netcoreapp2.1\ETicaret.Northwind.Business.pdb
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\bin\Debug\netcoreapp2.1\ETicaret.Core.dll
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\bin\Debug\netcoreapp2.1\ETicaret.Northwind.DataAccess.dll
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\bin\Debug\netcoreapp2.1\ETicaret.Northwind.Entities.dll
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\bin\Debug\netcoreapp2.1\ETicaret.Core.pdb
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\bin\Debug\netcoreapp2.1\ETicaret.Northwind.DataAccess.pdb
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\bin\Debug\netcoreapp2.1\ETicaret.Northwind.Entities.pdb
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\obj\Debug\netcoreapp2.1\ETicaret.Northwind.Business.csprojAssemblyReference.cache
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\obj\Debug\netcoreapp2.1\ETicaret.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\obj\Debug\netcoreapp2.1\ETicaret.Northwind.Business.AssemblyInfoInputs.cache
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\obj\Debug\netcoreapp2.1\ETicaret.Northwind.Business.AssemblyInfo.cs
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\obj\Debug\netcoreapp2.1\ETicaret.Northwind.Business.csproj.CopyComplete
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\obj\Debug\netcoreapp2.1\ETicaret.Northwind.Business.dll
+C:\Users\Gizem\Desktop\ETicaret\ETicaret\ETicaret.Northwind.Business\obj\Debug\netcoreapp2.1\ETicaret.Northwind.Business.pdb
